@@ -3,9 +3,9 @@
 ### News that pays. Jobs that matter. One platform for readers, publishers, and employers.
 
 <!-- TODO: replace the live-site URL below with your production domain -->
-[![Live Site](https://img.shields.io/badge/🌐_Live_Site-Visit_SouthernReport-red)](https://your-live-site-url.com)
+[![Live Site](https://img.shields.io/badge/🌐_Live_Site-Visit_SouthernReport-red)](https://southernreport.online)
 [![Made with Firebase](https://img.shields.io/badge/Firebase-Powered-orange?logo=firebase)](https://firebase.google.com)
-[![PWA Ready](https://img.shields.io/badge/PWA-Installable-blueviolet)](https://your-live-site-url.com)
+[![PWA Ready](https://img.shields.io/badge/PWA-Installable-blueviolet)](https://southernreport.online)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 **SouthernReport** is a modern digital news and opportunity platform built for visibility, earnings, and employment. Readers get fast, search-optimized news; publishers earn real money for every view; employers post jobs and job seekers apply — all in one place.
@@ -87,17 +87,17 @@
 
 | Homepage — Featured Stories & Live Updates | All News — 300+ Stories, Trending & Categories |
 |:---:|:---:|
-| ![SouthernReport homepage with featured stories carousel](docs/screenshots/home-featured-stories.png) | ![SouthernReport All News page on desktop](docs/screenshots/all-news-desktop.png) |
+| ![SouthernReport homepage with featured stories carousel](https://cdn.phototourl.com/free/2026-07-16-1f8996d2-eacb-4879-b02d-251740e63a01.png) | ![SouthernReport All News page on desktop](https://cdn.phototourl.com/free/2026-07-16-6e344e71-61e3-45a3-af50-8364a01370ab.pnghttps://cdn.phototourl.com/free/2026-07-16-6e344e71-61e3-45a3-af50-8364a01370ab.png) |
 
 | Publish Content — Articles, Videos, AI Video Analyser & YouTube Auto-Upload |
 |:---:|
-| ![Publish Content page with Video Analyser and YouTube connection](docs/screenshots/publish-content.png) |
+| ![Publish Content page with Video Analyser and YouTube connection](https://cdn.phototourl.com/free/2026-07-16-1f8996d2-eacb-4879-b02d-251740e63a01.png) |
 
 ### 📱 Mobile Experience
 
 | Publisher Earnings Dashboard | Trending News + Quick Menu | Mobile Publishing Form |
 |:---:|:---:|:---:|
-| ![Mobile publisher dashboard showing views, earnings, and payouts](docs/screenshots/publisher-dashboard-mobile.png) | ![Mobile trending news with account menu](docs/screenshots/mobile-menu-trending.png) | ![Mobile publish form with image upload](docs/screenshots/publish-form-mobile.png) |
+| ![Mobile publisher dashboard showing views, earnings, and payouts](https://cdn.phototourl.com/free/2026-07-16-2d0d4b11-e1a7-411a-82d1-0de892e7384e.png) | ![Mobile trending news with account menu](https://cdn.phototourl.com/free/2026-07-16-14ca44d9-b002-43fa-a2e2-22b7900239ea.png) | ![Mobile publish form with image upload](docs/screenshots/publish-form-mobile.png) |
 
 ---
 
